@@ -32,7 +32,7 @@
 **Languages:**
 <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a></code>
 <code><a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a><code>
-<code><a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png"></a></code>
   
 <img src="https://github-readme-stats.vercel.app/api?username=Aditya8821&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
