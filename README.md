@@ -29,13 +29,19 @@
 [![Twitter: AdityaTrivedi88](https://img.shields.io/twitter/follow/AdityaTrivedi88?style=social)](https://twitter.com/AdityaTrivedi88)
 [![Linkedin: Aditya Tivedi](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-trivedi-032090164/)](https://www.linkedin.com/in/aditya-trivedi-032090164/)
 
-**Languages:**
+**:LANGUAGES:**
 <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a></code>
 <code><a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png"></a></code>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya8821&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<a href="https://github.com/Aditya8821">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya8821&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Aditya8821">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya8821&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Aditya's github stats"/>
+</a>
+
 
 <a href="https://github.com/Aditya8821/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya8821&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
