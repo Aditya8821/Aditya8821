@@ -2,19 +2,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya8821&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 <a href="https://www.linkedin.com/in/aditya-trivedi-032090164/">
-  <img align="left" alt="Aditya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Aditya's Linkdein" width="30px" src="https://img.icons8.com/color/480/000000/linkedin.png" />
 </a>
 
 <a href="https://twitter.com/AdityaTrivedi88">
-  <img align="left" alt="Aditya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Aditya's Twitter" width="30px" src="https://img.icons8.com/color/480/000000/twitter--v2.png" />
 </a>
 
 <a href="https://instagram.com/aditya8__8/">
-  <img align="left" alt="Aditya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Aditya's Instagram" width="30px" src="https://img.icons8.com/color/480/000000/instagram-new--v2.png" />
 </a>
 
 <a href="https://www.facebook.com/aditya.trivedi.73700/">
-  <img align="left" alt="Aditya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Aditya's Facebook" width="30px" src="https://img.icons8.com/color/480/000000/facebook-circled--v4.png" />
 </a>
 
 <br/>
