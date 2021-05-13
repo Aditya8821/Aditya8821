@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Aditya Trivedi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px"></h1>
 <h3 align="center">A Boy Here Exploring New STUFFS!!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya8821&label=Views&color=blue&style=plastic" alt="Aditya8821" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya8821&label=Profile Views&color=blue&style=plastic" alt="Aditya8821" /> </p>
 
 <a href="https://www.linkedin.com/in/aditya-trivedi-032090164/">
   <img align="left" alt="Aditya's Linkdein" width="30px" src="https://img.icons8.com/color/480/000000/linkedin.png" />
