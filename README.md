@@ -32,6 +32,7 @@
 **:LANGUAGES:**
 <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a></code>
 <code><a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"></a></code>
+<code><a href="https://www.geeksforgeeks.org/data-structures/"><img src="https://img.icons8.com/plasticine/48/000000/tree-structure.png"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png"></a></code>
 
