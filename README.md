@@ -1,4 +1,4 @@
-### Hello, I'm Aditya 👋
+<h1>Hello, I'm Aditya Trivedi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya8821&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 <a href="https://www.linkedin.com/in/aditya-trivedi-032090164/">
