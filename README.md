@@ -36,3 +36,7 @@
 <code><a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png"></a></code>
   
 <img src="https://github-readme-stats.vercel.app/api?username=Aditya8821&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<a href="https://github.com/Aditya8821/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya8821&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
