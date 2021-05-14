@@ -41,7 +41,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya8821&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Aditya8821">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya8821&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Aditya's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya8821&include_all_commits=true&count_private=true&show_icons=true&line_height=26&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Aditya's github stats"/>
 </a>
 
 
