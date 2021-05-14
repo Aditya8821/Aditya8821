@@ -3,19 +3,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya8821&label=Profile Views&color=blue&style=plastic" alt="Aditya8821" /> </p>
 
 <a href="https://www.linkedin.com/in/aditya-trivedi-032090164/">
-  <img align="left" alt="Aditya's Linkdein" width="30px" src="https://img.icons8.com/color/480/000000/linkedin.png" />
+  <img align="left" alt="Aditya's Linkdein" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 
 <a href="https://twitter.com/AdityaTrivedi88">
-  <img align="left" alt="Aditya's Twitter" width="30px" src="https://img.icons8.com/color/480/000000/twitter--v2.png" />
+  <img align="left" alt="Aditya's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
 
 <a href="https://instagram.com/aditya8__8/">
-  <img align="left" alt="Aditya's Instagram" width="30px" src="https://img.icons8.com/color/480/000000/instagram-new--v2.png" />
+  <img align="left" alt="Aditya's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 
 <a href="https://www.facebook.com/aditya.trivedi.73700/">
-  <img align="left" alt="Aditya's Facebook" width="30px" src="https://img.icons8.com/color/480/000000/facebook-circled--v4.png" />
+  <img align="left" alt="Aditya's Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
 </a>
 
 <br/>
@@ -32,10 +32,10 @@
 
 **:LANGUAGES:**
 <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a></code>
-<code><a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"></a></code>
+<code><a href="https://www.python.org/"><img width="48px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
 <code><a href="https://www.geeksforgeeks.org/data-structures/"><img src="https://img.icons8.com/plasticine/48/000000/tree-structure.png"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.icons8.com/color/48/000000/html-5.png"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.icons8.com/color/48/000000/css3.png"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/HTML"><img width="48px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/CSS"><img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a></code>
 
 <a href="https://github.com/Aditya8821">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya8821&theme=dark&hide_langs_below=1" />
