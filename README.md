@@ -2,23 +2,6 @@
 <h3 align="center">A Boy Here Exploring New STUFFS!!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya8821&label=Profile Views&color=blue&style=plastic" alt="Aditya8821" /> </p>
 
-<a href="https://www.linkedin.com/in/aditya-trivedi-032090164/">
-  <img align="left" alt="Aditya's Linkdein" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a>
-
-<a href="https://twitter.com/AdityaTrivedi88">
-  <img align="left" alt="Aditya's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-</a>
-
-<a href="https://instagram.com/aditya8__8/">
-  <img align="left" alt="Aditya's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-</a>
-
-<a href="https://www.facebook.com/aditya.trivedi.73700/">
-  <img align="left" alt="Aditya's Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
-</a>
-
-<br/>
 <br/>
 
 - 🔭 I’m currently doing my Bachelor's Degree(CSE).
@@ -53,4 +36,26 @@
 
 ### Any fool can write code that a computer can understand.Good programmers write code that humans can understand!
 
+---
+
+<i>:𝑭𝒐𝒍𝒍𝒐𝒘 𝑴𝒚 𝑯𝒂𝒏𝒅𝒍𝒆𝒔:</i><br>
+
+<a href="https://www.linkedin.com/in/aditya-trivedi-032090164/">
+  <img align="center" alt="Aditya's Linkdein" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>
+&nbsp&nbsp
+<a href="https://twitter.com/AdityaTrivedi88">
+  <img align="center" alt="Aditya's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+</a>
+&nbsp&nbsp
+<a href="https://instagram.com/aditya8__8/">
+  <img align="center" alt="Aditya's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+</a>
+&nbsp&nbsp
+<a href="https://www.facebook.com/aditya.trivedi.73700/">
+  <img align="center" alt="Aditya's Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
+</a>
+
 </div>
+
+
