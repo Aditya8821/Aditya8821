@@ -28,7 +28,7 @@
  
 [![GitHub Aditya8821](https://img.shields.io/github/followers/Aditya8821?label=follow&style=social)](https://github.com/Aditya8821)
 [![Twitter: AdityaTrivedi88](https://img.shields.io/twitter/follow/AdityaTrivedi88?style=social)](https://twitter.com/AdityaTrivedi88)
-[![Linkedin: Aditya Tivedi](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-trivedi-032090164/)](https://www.linkedin.com/in/aditya-trivedi-032090164/)
+[![Linkedin: Aditya Tivedi](https://img.shields.io/badge/-AdityaTrivedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-trivedi-032090164/)](https://www.linkedin.com/in/aditya-trivedi-032090164/)
 
 **:LANGUAGES:**
 <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a></code>
