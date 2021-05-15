@@ -14,7 +14,7 @@
 [![Linkedin: Aditya Tivedi](https://img.shields.io/badge/-AdityaTrivedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-trivedi-032090164/)](https://www.linkedin.com/in/aditya-trivedi-032090164/)
 
 **:LANGUAGES:**
-<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a></code>
 <code><a href="https://www.python.org/"><img width="48px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
 <code><a href="https://www.geeksforgeeks.org/data-structures/"><img src="https://img.icons8.com/plasticine/48/000000/tree-structure.png"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/HTML"><img width="48px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
