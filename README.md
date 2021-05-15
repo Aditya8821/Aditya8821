@@ -28,9 +28,7 @@
 </a>
 
 
-<a href="https://github.com/Aditya8821/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya8821&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-  </a>
+
   
 <div align="center">
 
