@@ -16,7 +16,6 @@
 <h2 align="center">LANGUAGES & TOOLS</h2>
 <p align="center"><code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a></code>
 <code><a href="https://www.python.org/"><img width="48px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
-<code><a href="https://www.geeksforgeeks.org/data-structures/"><img src="https://img.icons8.com/plasticine/48/000000/tree-structure.png"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/HTML"><img width="48px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/CSS"><img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a></code></p>
 <br>
