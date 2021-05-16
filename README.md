@@ -55,7 +55,11 @@
 <a href="https://www.facebook.com/aditya.trivedi.73700/">
   <img align="center" alt="Aditya's Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
 </a>
-
 </div>
-
+<br>
+<footer>
+     <div align="center">
+          Copyright &copy; www.github.com/Aditya8821. All Rights Reserved!
+      </div>
+</footer>
 
