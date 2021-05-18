@@ -18,7 +18,7 @@
 <code><a href="https://www.python.org/"><img width="48px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/HTML"><img width="48px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/CSS"><img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a></code>
-<code><a href=""><img width="48px"src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png"/></a></code>
+<code><a href="https://www.w3schools.com/js/"><img width="48px"src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png"/></a></code>
 
 </p>
 <br>
@@ -41,7 +41,7 @@
 
 ---
 
-<i>:𝑭𝒐𝒍𝒍𝒐𝒘 𝑴𝒚 𝑯𝒂𝒏𝒅𝒍𝒆𝒔:</i><br>
+<i>:𝙁𝙤𝙡𝙡𝙤𝙬 𝙈𝙮 𝙃𝙖𝙣𝙙𝙡𝙚𝙨:</i><br>
 
 <a href="https://www.linkedin.com/in/aditya-trivedi-032090164/">
   <img align="center" alt="Aditya's Linkdein" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
