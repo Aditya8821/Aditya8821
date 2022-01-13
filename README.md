@@ -1,5 +1,4 @@
-<h1>Hello, I'm Aditya Trivedi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
-<h3 align="center">A Boy Here Exploring New STUFFS!</h3>
+<h1>Hi, I'm Aditya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya8821&label=Profile Views&color=blue&style=plastic" alt="Aditya8821" /> </p>
 
 <br/>
