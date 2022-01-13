@@ -35,11 +35,9 @@
   
 <div align="center">
 
-### Any fool can write code that a computer can understand.Good programmers write code that humans can understand!
-
 ---
 
-<i>:𝙁𝙤𝙡𝙡𝙤𝙬 𝙈𝙮 𝙃𝙖𝙣𝙙𝙡𝙚𝙨:</i><br>
+<i>:Follow Me On:</i><br>
 
 <a href="https://www.linkedin.com/in/aditya-trivedi-032090164/">
   <img align="center" alt="Aditya's Linkdein" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
