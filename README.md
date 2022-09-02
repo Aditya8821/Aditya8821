@@ -6,7 +6,6 @@
 - 🔭 I’m currently doing my Bachelor's Degree(CSE).
 - 🌱 I’m currently learning Web Development.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 4-5hr listening 🎶Music daily.
  
 [![GitHub Aditya8821](https://img.shields.io/github/followers/Aditya8821?label=follow&style=social)](https://github.com/Aditya8821)
 [![Twitter: AdityaTrivedi88](https://img.shields.io/twitter/follow/AdityaTrivedi88?style=social)](https://twitter.com/AdityaTrivedi88)
