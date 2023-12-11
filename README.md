@@ -3,11 +3,6 @@
 
 <br/>
 
-- 🔭 I’m currently doing my Bachelor's Degree(CSE).
-- 🌱 I’m currently learning Web Development.
-- 😄 Pronouns: He/His
- 
-[![GitHub Aditya8821](https://img.shields.io/github/followers/Aditya8821?label=follow&style=social)](https://github.com/Aditya8821)
 [![Twitter: AdityaTrivedi88](https://img.shields.io/twitter/follow/AdityaTrivedi88?style=social)](https://twitter.com/AdityaTrivedi88)
 [![Linkedin: Aditya Tivedi](https://img.shields.io/badge/-AdityaTrivedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-trivedi-032090164/)](https://www.linkedin.com/in/aditya-trivedi-032090164/)
 
