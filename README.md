@@ -1,6 +1,4 @@
 <h1>Hi, I'm Aditya</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya8821&label=Profile Views&color=blue&style=plastic" alt="Aditya8821" /> </p>
-
 <br/>
 
 [![Twitter: AdityaTrivedi88](https://img.shields.io/twitter/follow/AdityaTrivedi88?style=social)](https://twitter.com/AdityaTrivedi88)
